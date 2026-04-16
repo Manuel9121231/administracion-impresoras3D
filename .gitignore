@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Database files
+*.db
+*.sql
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
